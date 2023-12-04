@@ -12,7 +12,7 @@ TERMS AND CONDITIONS FOR COMMERCIAL AND PRIVATE USE, REPRODUCTION, DISTRIBUTION,
 2. Commercial use. Commercial use is allowed.
   a) Commercial use and/or resale must cost more than the original price of the Software.
   b) 33.33% of profits must be remitted to the Holder before You.
-    i) More specifically, if Entity A created a Software, Entity B created a Derivitave Work of the Software held by Entity A, and Entity C created a Derivative Work of the Software held by Entity B, so on and so forth until Entity Z, 50% of the sale of Entity Z's Software would go to Entity Y. 50% of that would go to Entity X, and it continues until it reaches the original Holder, Entity A.
+    i) More specifically, if Entity A created a Software, Entity B created a Derivitave Work of the Software held by Entity A, and Entity C created a Derivative Work of the Software held by Entity B, so on and so forth until Entity Z, 50% of the profits of Entity Z's Software would go to Entity Y. 50% of Entity Y's profits would go to Entity X, and it continues until it reaches the original Holder, Entity A.
 3. Distribution. Distribution is allowed, subject to §7.
 4. Modification. Modification is allowed.
 5. Patent rights. Patent rights are NOT granted.
