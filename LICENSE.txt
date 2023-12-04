@@ -10,19 +10,18 @@ TERMS AND CONDITIONS FOR COMMERCIAL AND PRIVATE USE, REPRODUCTION, DISTRIBUTION,
   "Holder" refers to the individual or entity that holds the copyright and/or license rights to the Software.
   "You" refers to the individual or entity exercising the permissions of this License
 2. Commercial use. Commercial use is allowed.
-  a) Commercial use and/or resale must cost more than the original price of the Software.
+  a) Commercial use and/or resale must cost at minimum 25% than the original price of the Software.
   b) 33.33% of profits must be remitted to the Holder before You.
-    i) More specifically, if Entity A created a Software, Entity B created a Derivitave Work of the Software held by Entity A, and Entity C created a Derivative Work of the Software held by Entity B, so on and so forth until Entity Z, 50% of the profits of Entity Z's Software would go to Entity Y. 50% of Entity Y's profits would go to Entity X, and it continues until it reaches the original Holder, Entity A.
-3. Distribution. Distribution is allowed, subject to §7.
+    i) More specifically, if Entity A created a Software, Entity B created a Derivitave Work of the Software held by Entity A, and Entity C created a Derivative Work of the Software held by Entity B, so on and so forth until Entity Z, 33.33% of the profits of Entity Z's Software would go to Entity Y. 33.33% of Entity Y's profits would go to Entity X, and it continues until it reaches the original Holder, Entity A.
+3. Distribution. Distribution is allowed, subject to §2.a, §2.b, and §2.b.i.
 4. Modification. Modification is allowed.
 5. Patent rights. Patent rights are NOT granted.
 6. Private use. Private use is allowed.
-7. Any commercial use and distribution must cost more than the original price of the software, and 50% of the profits must be remitted to the Holder.
-8. When distributing the Software or its Derivative Works, the source code, as well as the applicable license and copyright information for both the source and binaries, must be disclosed and unmodified.
-9. Changes and modifications made to the Software must be clearly stated.
-10. The creator(s) of this Software are NOT liable for any uses of the Software, and users assume all risks.
-11. This License does NOT grant permission for the use of any trademarks associated with the Software.
-12. This License does NOT provide any warranty, express or implied, and users accept the Software "as-is" without any guarantee of fitness for a particular purpose.
+7. When distributing the Software or its Derivative Works, the source code, as well as the applicable license and copyright information for both the source and binaries, must be disclosed and unmodified.
+8. Changes and modifications made to the Software must be clearly stated.
+9. The creator(s) of this Software are NOT liable for any uses of the Software, and users assume all risks.
+10. This License does NOT grant permission for the use of any trademarks associated with the Software.
+11. This License does NOT provide any warranty, express or implied, and users accept the Software "as-is" without any guarantee of fitness for a particular purpose.
 
 Disclaimer: Use this Software at your own risk.
 
